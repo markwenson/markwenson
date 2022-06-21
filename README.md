@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @markwenson
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning on codeacademy.
+- 🌱 I’m currently learning on The Odin Project.
 - 💞️ I’m looking to collaborate and expanding my coding knowledge.
 - 📫 Reach me here.
 
