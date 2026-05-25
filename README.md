@@ -29,9 +29,9 @@ I specialize in creating automation solutions that reduce manual effort, improve
 ## 🔥 Featured Project
 
 ### TurboRater Playwright Automation Framework
-🔗 https://github.com/markwenson/turborater-playwright-tests  
-🔗 https://github.com/markwenson/turborater-ticket-tests
-🔗 https://github.com/markwenson/turborater-home-tests
+🔗 https://github.com/markwenson/turborater-playwright-tests
+🔗 https://github.com/markwenson/turborater-ticket-tests  
+🔗 https://github.com/markwenson/turborater-home-tests  
 
 - Built a **robust Playwright automation framework** for complex insurance workflows  
 - Reduced multi-state smoke testing effort by up to **90%**  
