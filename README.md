@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mark
 
-🚀 QA Automation Engineer focused on building scalable, AI-augmented test automation frameworks using Playwright and modern JavaScript/TypeScript tools.
+🚀 QA Automation Engineer focused on building scalable, test automation frameworks using Playwright and modern JavaScript/TypeScript tools.
 
 I specialize in creating automation solutions that reduce manual effort, improve reliability, and accelerate software delivery.
 
@@ -18,7 +18,7 @@ I specialize in creating automation solutions that reduce manual effort, improve
 
 ## 🛠️ Tech Stack
 
-**Automation:** Playwright, Selenium  
+**Automation:** Playwright 
 **Languages:** JavaScript, TypeScript  
 **Testing:** E2E, UI, Smoke, Regression  
 **CI/CD:** GitHub Actions  
@@ -30,6 +30,7 @@ I specialize in creating automation solutions that reduce manual effort, improve
 
 ### TurboRater Playwright Automation Framework
 🔗 https://github.com/markwenson/turborater-playwright-tests  
+🔗 https://github.com/markwenson/turborater-ticket-tests
 
 - Built a **robust Playwright automation framework** for complex insurance workflows  
 - Reduced multi-state smoke testing effort by up to **90%**  
